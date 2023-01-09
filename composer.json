@@ -1,9 +1,9 @@
 {
-    "name": "vkcom/vk-php-sdk",
+    "name": "corponat/vk-php-sdk",
     "description": "VK PHP SDK",
-    "keywords": ["vk", "sdk"],
+    "keywords": ["vk", "sdk", "corponat"],
     "type": "library",
-    "homepage": "https://github.com/VKCOM/vk-php-sdk",
+    "homepage": "https://github.com/corponat/vk-php-sdk",
     "license": "MIT",
     "require": {
         "php": ">=7.1"
